@@ -4,7 +4,7 @@
 
 This project uses [p5.js](https://p5js.org/) to convert your webcam feed into live **ASCII art**. It maps pixel brightness to a series of character "densities" to create dynamic, text-based visualizations.
 
-[Live Demo](https://editor.p5js.org/Usman_Ali/full/R56-Mu1EN)
+[![Run on p5.js](https://img.shields.io/badge/Try%20Live%20Demo-p5.js-blue?style=for-the-badge)](https://editor.p5js.org/Usman_Ali/full/R56-Mu1EN)
 
 ## 🧠 Concept
 
